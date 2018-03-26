@@ -1,0 +1,6 @@
+<suite name="MasterSuite" parallel="false">
+    <suite-files>
+        <suite-file path="testGetBooks.xml"/>
+        <suite-file path="testSecurityModule.xml"/>
+    </suite-files>
+</suite>
