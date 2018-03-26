@@ -1,0 +1,5 @@
+<suite name="MasterSuite" parallel="false">
+    <suite-files>
+        <suite-file path="masterSuite.xml"/>
+    </suite-files>
+</suite>

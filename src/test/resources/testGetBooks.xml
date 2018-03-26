@@ -1,0 +1,12 @@
+<suite name="Проверка, на получение корректных данных от сервера ">
+    <test name="Проверка на получение коретных данных, о книгах, от сервера">
+        <classes>
+            <class name="test_suite.test_get_books.TestGetBooks">
+                <parameter name="pathToExpectDataBooks"
+                           value="C:\Users\admin\Documents\patrs\testRest\src\main\resources\test_get_books\books.txt"/>
+                <parameter name="login" value="user"/>
+                <parameter name="password" value="user"/>
+            </class>
+        </classes>
+    </test>
+</suite>

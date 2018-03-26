@@ -1,0 +1,8 @@
+<suite name="Проверка модуля безопасности">
+    <test name="Тест проверяет, возможность авторизоваться, на серевере с не валидными и валидными данными">
+        <classes>
+            <class name="test_suite.test_security_module.TestSecurity">
+            </class>
+        </classes>
+    </test>
+</suite>
